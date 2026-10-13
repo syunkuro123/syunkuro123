@@ -23,6 +23,8 @@ Mac向けの忍者ステルスアクション。開発途中のα版を公開し
 
 ## 発信・講師活動
 
+- [YouTube — AIリスキリング大学](https://www.youtube.com/@sunnariwakaru_ai) — AI活用の実例を動画で発信。
+- [登壇・制作例 — 建設業向けAIセミナーのダイジェスト](https://www.youtube.com/watch?v=0DsosrQz9DM) — 自身の登壇映像をChatGPT・Codex・Image 2.0で編集した公開動画。
 - [Instagram — 眼科看護師すん](https://www.instagram.com/sunnariwakaru/)
 - [CareNeTVナース — 講師プロフィール・眼科看護セミナー](https://nurse.carenet.com/instructor/detail/66)
 
